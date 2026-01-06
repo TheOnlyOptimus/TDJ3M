@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\05-ol-ul-li"
+    "\\03-liens",
+    "\\05-ol-ul-li",
+    "\\06-table-tr-th-td"
   ],
-  "SelectedNode": "\\05-ol-ul-li\\T.rex.jpg",
+  "SelectedNode": "\\06-table-tr-th-td",
   "PreviewInSolutionExplorer": false
 }
