@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\03-liens",
+    "\\03-liens\\dossier1",
     "\\05-ol-ul-li",
-    "\\06-table-tr-th-td"
+    "\\07-video-audio"
   ],
-  "SelectedNode": "\\06-table-tr-th-td",
+  "SelectedNode": "\\07-video-audio\\media.html",
   "PreviewInSolutionExplorer": false
 }
