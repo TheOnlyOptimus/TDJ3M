@@ -23,13 +23,20 @@
 					margin-bottom: 10px;
 				}
 
+					@media only screen and (max-width:1000px) {
+					.contenantItem{ background-color:blue;}
+					.contenantItem { width: calc((100% / 4) - 8px); }
+
 				@media only screen and (max-width: 800px) {
+					.contenantItem{background-color:red;}
 					.contenantItem { width: calc((100% / 4) - 8px); }
 				}
-				@media only screen and (max-width: 650px) {
+				@media only screen and (max-width: 600px) {
+				.contenantItem{background-color:orange;}
 					.contenantItem { width: calc((100% / 3) - 6px); }
 				}
 				@media only screen and (max-width: 400px) {
+				.contenantItem{background-color:green;}
 					.contenantItem { width: calc((100% / 2) - 4px); }
 				}
 
