@@ -1,12 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\04a-pratique-h1-h6",
-    "\\08-pratique-avec-css",
-    "\\08b-avec-selecteurs",
-    "\\09-modele-de-boite",
     "\\10-flexbox",
-    "\\11-media-queries"
+    "\\12-pratique-media-queries",
+    "\\14-site-web",
+    "\\Portfolio"
   ],
+  "SelectedNode": "\\Portfolio\\Index.html",
   "PreviewInSolutionExplorer": false
 }
